@@ -1,0 +1,8 @@
+name: SimpAPIExample
+version: '1.0'
+main: dev.potato.simpapiexample.SimpAPIExample
+api-version: '1.20'
+commands:
+  iceberg:
+    description: Opens the Iceberg GUI
+    usage: /iceberg
